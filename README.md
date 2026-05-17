@@ -2,7 +2,8 @@
 
 **`Desenvolvedora Full-Stack | Foco em Back-end com Python`**
 
-Sou apaixonada por tecnologia, inovação e soluções criativas.  
+Sou desenvolvedora, apaixonada por tecnologia, inovação e soluções criativas, sempre explorando novas ferramentas e aqui você encontra meus projetos, estatísticas e conquistas no Github. 🚀
+
 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** — já concluí 1 ano e 6 meses, tenho 1 ano restante.  
 Finalizei a formação **Full Stack pela Gama Academy -  Hacker**, com especialização em **Front-end**,
 e alguns **Cursos Técnicos de informática** pela **FAETEC - RJ.  
@@ -90,7 +91,7 @@ Natural do **Espírito Santo**, busco evoluir como desenvolvedora back-end em Py
 <br/><br/>
 <br/><br/>
 
-### 🛠️ Ferramentas e IDEs
+### 🛠️ Ferramentas, Tecnologias e IDEs
 
 <img 
     align="left" 
@@ -178,4 +179,18 @@ Natural do **Espírito Santo**, busco evoluir como desenvolvedora back-end em Py
 
 ### 📊 Estatísticas
 
-![Metrics](./github-metrics.svg)
+<div 
+align="center">
+  <img 
+  src="github-metrics.svg" alt="Estatísticas do GitHub" 
+  width="600"/>
+</div>
+
+## 🌟 Conquistas
+
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=PatriciaGheller&theme=onedark&row=1&column=6)
+
+</div>
+
