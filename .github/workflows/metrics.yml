@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: PatriciaGheller
-          template: modern
+          template: markdown
           filename: github-metrics.svg
           committer_message: "Atualiza métricas"
           config_timezone: America/Sao_Paulo
