@@ -178,4 +178,4 @@ Natural do **Espírito Santo**, busco evoluir como desenvolvedora back-end em Py
 
 ### 📊 Estatísticas
 
-![Metrics](./metrics.svg)
+![Metrics](./github-metrics.svg)
