@@ -177,20 +177,28 @@ Natural do **Espírito Santo**, busco evoluir como desenvolvedora back-end em Py
 <br/><br/>
 
 
-### 📊 Estatísticas
+## 📈 Estatísticas
 
-<div 
-align="center">
-  <img 
-  src="github-metrics.svg" alt="Estatísticas do GitHub" 
-  width="600"/>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+  <img src="https://github-readme-stats-gamma-jet-23.vercel.app/api?username=PatriciaGheller&show_icons=true&theme=radical" width="400"/>
+
+  <img src="https://github-readme-stats-gamma-jet-23.vercel.app/api/top-langs/?username=PatriciaGheller&layout=compact&theme=radical" width="400"/>
+
 </div>
 
-## 🌟 Conquistas
+
+---
+
+## 🚀 Conquistas
 
 <div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=PatriciaGheller&theme=onedark&row=1&column=6)
+
+<img src="https://github-profile-trophy.vercel.app/?username=PatriciaGheller&theme=radical&title=Stars,Commits,Followers" />
 
 </div>
 
+<br/> <br/>
+
+![GitHub followers](https://img.shields.io/github/followers/PatriciaGheller?style=social)
+![GitHub stars](https://img.shields.io/github/stars/PatriciaGheller?style=social)
