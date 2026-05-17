@@ -1,8 +1,11 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}] # Atualiza todo dia à meia-noite
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
+  schedule: [{cron: "0 0 * * *"}]
+
+permissions:
+  contents: write   # <-- permite salvar o metrics.svg
 
 jobs:
   github-metrics:
@@ -13,11 +16,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: PatriciaGheller
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories
           config_timezone: America/Sao_Paulo
-
-          # Plugins extras
-          plugin_languages: yes
-          plugin_stars: yes
-          plugin_followup: yes
-          plugin_streak: yes
