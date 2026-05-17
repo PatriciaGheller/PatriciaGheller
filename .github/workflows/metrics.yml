@@ -5,7 +5,7 @@ on:
   schedule: [{cron: "0 0 * * *"}]
 
 permissions:
-  contents: write   # <-- permite salvar o metrics.svg
+  contents: write
 
 jobs:
   github-metrics:
@@ -18,3 +18,4 @@ jobs:
           template: classic
           base: header, repositories
           config_timezone: America/Sao_Paulo
+          filename: metrics.svg   
