@@ -1,32 +1,29 @@
-# 👩‍💻 Patrícia Gheller
+# 👩‍💻 Hello World, I'm Patrícia Gheller 👋
+
+<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
+
+![GIF Mario](.github/assets/mario.gif)
 
 **`Desenvolvedora Full-Stack | Foco em Back-end com Python`**
 
-Sou desenvolvedora, apaixonada por tecnologia, inovação e soluções criativas, sempre explorando novas ferramentas e aqui você encontra meus projetos, estatísticas e conquistas no Github. 🚀
+<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** — já concluí 1 ano e 6 meses, tenho 1 ano restante.  
-Finalizei a formação **Full Stack pela Gama Academy -  Hacker**, com especialização em **Front-end**,
-e alguns **Cursos Técnicos de informática** pela **FAETEC - RJ.  
-Natural do **Espírito Santo**, busco evoluir como desenvolvedora back-end em Python, sem deixar de lado o conhecimento em front-end para criar aplicações completas.
+#### Sobre mim
 
-<p align="left">
-    <a href="https://github.com/PatriciaGheller?tab=followers">
-        <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/PatriciaGheller?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
-    <a href="https://github.com/PatriciaGheller?tab=repositories&sort=stargazers">
-        <img alt="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/PatriciaGheller?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-    </a>
-    <a href="https://www.linkedin.com/in/patricia-souza">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://web.dio.me/users/patricia_gheller_1985?tab=achievements">
-        <img alt="DIO" src="https://img.shields.io/badge/DIO-purple?style=for-the-badge&logo=dio&logoColor=white"/>
-    </a>
-</p>
+- <img src=".github/assets/hand.gif" width="50" height="50"/> Olá, Meu nome é Patrícia Gheller e eu sou desenvolvedora, apaixonada por tecnologia, inovação e soluções criativas, sempre explorando novas ferramentas e aqui você encontra meus projetos, estatísticas e conquistas. 🚀
 
----
+- <img src=".github/assets/Brain.png" width="30" height="30"/> Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** — já concluí 1 ano e 6 meses, tenho 1 ano restante.  
+  Finalizei a formação **Full Stack pela Gama Academy - Hacker**, com especialização em **Front-end**,
+  e alguns **Cursos Técnicos de informática** pela \*\*FAETEC - RJ.
+- <img src=".github/assets/dev.gif" width="50" height="50"/>Natural do **Espírito Santo**, busco evoluir como desenvolvedora back-end em Python, sem deixar de lado o conhecimento em front-end para criar aplicações completas.
 
-### 🤖 Linguagens e Tecnologias
+<br/>
+
+<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
+
+
+
+## Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -86,12 +83,13 @@ Natural do **Espírito Santo**, busco evoluir como desenvolvedora back-end em Py
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 
-
 ---
-<br/><br/>
+
 <br/><br/>
 
-### 🛠️ Ferramentas, Tecnologias e IDEs
+<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
+
+## Ferramentas da Minha Stack 
 
 <img 
     align="left" 
@@ -176,6 +174,31 @@ Natural do **Espírito Santo**, busco evoluir como desenvolvedora back-end em Py
 <br/><br/>
 <br/><br/>
 
+<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
+
+<p align="left">
+    <a href="https://github.com/PatriciaGheller?tab=followers">
+        <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/PatriciaGheller?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+    </a>
+    <a href="https://github.com/PatriciaGheller?tab=repositories&sort=stargazers">
+        <img alt="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/PatriciaGheller?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+    </a>
+    <a href="https://www.linkedin.com/in/patricia-souza">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://web.dio.me/users/patricia_gheller_1985?tab=achievements">
+        <img alt="DIO" src="https://img.shields.io/badge/DIO-purple?style=for-the-badge&logo=dio&logoColor=white"/>
+    </a>
+        <a href="mailto:patricia.gheller.1985@gmail.com">
+        <img alt="Email"
+        title="Email" 
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://img.icons8.com/?size=100&id=X0mEIh0RyDdL&format=png&color=000000"/>
+    </a>
+</p>
+
+<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
 
 ## 📈 Estatísticas
 
@@ -187,18 +210,11 @@ Natural do **Espírito Santo**, busco evoluir como desenvolvedora back-end em Py
 
 </div>
 
+<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
 
----
+## 🏆 Conquistas
 
-## 🚀 Conquistas
+![trophy](https://github-profile-trophy.vercel.app/?username=PatriciaGheller&theme=radical&title=Stars,Commits,Followers)
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PatriciaGheller&theme=radical&title=Stars,Commits,Followers" />
 
-</div>
-
-<br/> <br/>
-
-![GitHub followers](https://img.shields.io/github/followers/PatriciaGheller?style=social)
-![GitHub stars](https://img.shields.io/github/stars/PatriciaGheller?style=social)
