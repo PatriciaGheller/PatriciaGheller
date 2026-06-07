@@ -196,9 +196,9 @@
     </thead>
     <tbody>
         <tr>
-            <td align="right" valign="top" width="80"><br />
+            <td align="right" valign="top" width="50"><br />
                 <a href="https://github.com/PatriciaGheller/portfolio">
-                    <img src="./.github/assets/icons/python.svg" width="80"/>
+                    <img src="./.github/assets/icons/python.svg" width="50"/>
                 </a>
             </td>
             <td valign="top">
@@ -212,9 +212,9 @@
             </td>
         </tr>
         <tr>
-            <td align="center" valign="top" width="80"><br />
+            <td align="center" valign="top" width="50"><br />
                 <a href="https://github.com/PatriciaGheller/desenvolvimento_fullstack_com_django">
-                    <img src="./.github/assets/icons/django.svg" width="60"/>
+                    <img src="./.github/assets/icons/django.svg" width="50"/>
                 </a>
             </td>
             <td valign="top">
@@ -228,9 +228,9 @@
             </td>
         </tr>
         <tr>
-            <td align="center" valign="top" width="80"><br />
+            <td align="center" valign="top" width="50"><br />
                 <a href="https://github.com/PatriciaGheller/fast_api">
-                    <img src="./.github/assets/icons/python.svg" width="80"/>
+                    <img src="./.github/assets/icons/python.svg" width="50"/>
                 </a>
             </td>
             <td valign="top">
@@ -244,9 +244,9 @@
             </td>
         </tr>
         <tr>
-  <td align="center" valign="top" width="80"><br />
+  <td align="center" valign="top" width="60"><br />
     <a href="https://github.com/PatriciaGheller/tradutor-idiomas">
-      <img src="./.github/assets/icons/javascript.svg" width="60"/>
+      <img src="./.github/assets/icons/javascript.svg" width="40"/>
     </a>
   </td>
   <td valign="top">
