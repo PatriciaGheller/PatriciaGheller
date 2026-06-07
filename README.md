@@ -1,12 +1,17 @@
+<div align="center">
+
 # 👩‍💻 Hello World, I'm Patrícia Gheller 👋
 
-<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
+</div>
+
+
+<img src="./.github/assets/lineBar.png" width="100%" height="100px"/>
 
 ![GIF Mario](.github/assets/mario.gif)
 
 **`Desenvolvedora Full-Stack | Foco em Back-end com Python`**
 
-<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
+<img src="./.github/assets/lineBar.png" width="100%" height="100px"/>
 
 #### Sobre mim
 
@@ -18,18 +23,21 @@
 - <img src=".github/assets/dev.gif" width="50" height="50"/>Natural do **Espírito Santo**, busco evoluir como desenvolvedora back-end em Python, sem deixar de lado o conhecimento em front-end para criar aplicações completas.
 
 <br/>
+<div align="left" style="margin-top:-30px; margin-left:0;">
+  <img src="./.github/assets/lineBar.png" width="100%" height="100px" style="display:block;"/>
+</div>
 
-<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
 
 
+<h2 style="margin-top:-10px; border-bottom:none;">Linguagens e Tecnologias</h2>
 
-## Linguagens e Tecnologias
+
 
 <img 
     align="left" 
     alt="Python"
     title="Python" 
-    width="30px"
+    width="40px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img 
@@ -83,13 +91,15 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 
----
+
 
 <br/><br/>
 
-<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
+<div align="left" style="margin-top:-30px; margin-left:0;">
+  <img src="./.github/assets/lineBar.png" width="100%" height="100px" style="display:block;"/>
+</div>
 
-## Ferramentas da Minha Stack 
+<h2 style="margin-top:-10px; border-bottom:none;">Ferramentas da Minha Stack</h2>
 
 <img 
     align="left" 
@@ -171,10 +181,102 @@
     style="margin-right: 10px;" 
     src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
-<br/><br/>
+
 <br/><br/>
 
-<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
+<img src="./.github/assets/lineBar.png" width="100%" height="100px"/>
+
+<h2 style="margin-top:-10px; border-bottom:none;">Destaques do meu Github</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2" width="2000">&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="right" valign="top" width="30"><br />
+                <a href="https://github.com/PatriciaGheller/portfolio">
+                    <img src="./.github/assets/icons/python.svg" width="30"/>
+                </a>
+            </td>
+            <td valign="top">
+                <h3>Meu Portfólio</h3>
+                <p>Portfólio online para apresentar minhas habilidades, tecnologias que domino e projetos desenvolvidos.</p>
+               <div align="right">
+    <a href="https://github.com/PatriciaGheller/portfolio">
+      <img src="https://img.shields.io/badge/Ver%20Projeto-2F80ED?style=for-the-badge&logo=html5&logoColor=white" alt="Ver Projeto">
+    </a>
+  </div>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" valign="top" width="30"><br />
+                <a href="https://github.com/PatriciaGheller/desenvolvimento_fullstack_com_django">
+                    <img src="./.github/assets/icons/django.svg" width="30"/>
+                </a>
+            </td>
+            <td valign="top">
+                <h3>Desenvolvimento FullStack com Django</h3>
+                <p>Criação de aplicativos web utilizando o poderoso framework Django.</p>
+                <div align="right">
+                <a href="https://github.com/PatriciaGheller/desenvolvimento_fullstack_com_django">
+                     <img src="https://img.shields.io/badge/Ver%20Projeto-FF0000?style=for-the-badge&logo=django&logoColor=white" alt="Ver Projeto">
+                     </a>
+                     </div>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" valign="top" width="30"><br />
+                <a href="https://github.com/PatriciaGheller/fast_api">
+                    <img src="./.github/assets/icons/python.svg" width="30"/>
+                </a>
+            </td>
+            <td valign="top">
+                <h3>Fast API</h3>
+                <p>Projeto de estudo sobre FastAPI para construção de APIs RESTful assíncronas..</p>
+                <div align="right">
+                  <a href="https://github.com/PatriciaGheller/fast_api">
+                 <img src="https://img.shields.io/badge/Ver%20API-27AE60?style=for-the-badge&logo=python&logoColor=white" alt="Ver API">
+                 </a>
+                 </div>
+            </td>
+        </tr>
+        <tr>
+  <td align="center" valign="top" width="25"><br />
+    <a href="https://github.com/PatriciaGheller/tradutor-idiomas">
+      <img src="./.github/assets/icons/javascript.svg" width="25"/>
+    </a>
+  </td>
+  <td valign="top">
+    <h3>Tradutor de Idiomas</h3>
+    <p>Aplicação web que traduz textos entre múltiplos idiomas, com suporte a entrada por voz e leitura da tradução em voz alta. Desenvolvido com HTML, CSS e JavaScript.</p>
+    <div align="right">
+    <a href="https://github.com/PatriciaGheller/tradutor-idiomas">
+      <img src="https://img.shields.io/badge/Ver%20Projeto-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Ver Projeto">
+    </a>
+    </div>
+  </td>
+</tr>
+
+</tbody>
+</table>
+
+<img src="./.github/assets/lineBar.png" width="100%" height="100px"/>
+
+
+<h2 style="margin-top:-10px; border-bottom:none;">📈 Estatísticas</h2> 
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+  <img src="https://github-readme-stats-gamma-jet-23.vercel.app/api?username=PatriciaGheller&show_icons=true&theme=radical" width="400"/>
+
+  <img src="https://github-readme-stats-gamma-jet-23.vercel.app/api/top-langs/?username=PatriciaGheller&layout=compact&theme=radical" width="400"/>
+
+</div>
+
+<br/> <br/>
 
 <p align="left">
     <a href="https://github.com/PatriciaGheller?tab=followers">
@@ -198,23 +300,12 @@
     </a>
 </p>
 
-<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
-
-## 📈 Estatísticas
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-
-  <img src="https://github-readme-stats-gamma-jet-23.vercel.app/api?username=PatriciaGheller&show_icons=true&theme=radical" width="400"/>
-
-  <img src="https://github-readme-stats-gamma-jet-23.vercel.app/api/top-langs/?username=PatriciaGheller&layout=compact&theme=radical" width="400"/>
-
-</div>
-
-<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff0000, #0000ff);" />
+<img src="./.github/assets/lineBar.png" width="100%" height="100px"/>
 
 ## 🏆 Conquistas
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=PatriciaGheller&theme=radical&title=Stars,Commits,Followers)
+
 
 
 
